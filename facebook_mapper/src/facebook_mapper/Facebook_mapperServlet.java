@@ -104,7 +104,7 @@ public class Facebook_mapperServlet extends HttpServlet
 			resp.getWriter().println("<html>");
 			resp.getWriter().println("<body>");
 			
-			resp.getWriter().println("Baseball123");
+			resp.getWriter().println("Baseball 123");
 			resp.getWriter().println("<br>");
 	        for(int j=0;j<resultJS.length();j++)
 	        {
